@@ -21,7 +21,6 @@ A stitch in time (saves nine)
 A watched man never plays
 A watched pot/kettle never boils
 Absence makes the heart grow fonder
-Absolute power corrupts absolutely. John Dalberg-Acton, 1887
 Accidents will happen (in the best-regulated families).
 Actions speak louder than words.
 Adversity makes strange bedfellows
@@ -40,8 +39,8 @@ All is fair in love and war
 All is for the best in the best of all possible worlds
 All is well that ends well
 An apple a day keeps the doctor away
-An army marches on its stomach. Napoleon Bonaparte (1769–1821), military leader and Emperor of France
-An eye for an eye makes the whole world blind. Mahatma Gandhi (1869–1948), leader of the Indian independence movement
+An army marches on its stomach. 
+An eye for an eye makes the whole world blind. 
 An Englishman's home is his castle/A man's home is his castle
 Another day, another dollar.
 An ounce of prevention is worth a pound of cure
@@ -67,7 +66,7 @@ Better to have loved and lost than never to have loved at all
 Better to light one candle than to curse the darkness
 Better to remain silent and be thought a fool than to speak and remove all doubt
 Better wear out than rust out.
-Beware of Greeks bearing gifts. Trojan War, Virgil in the Aeneid
+Beware of Greeks bearing gifts. 
 Big fish eat little fish
 Birds of a feather (flock together)
 Blood is thicker than water
@@ -132,9 +131,8 @@ Do not try to walk before you can crawl
 Do not upset the apple-cart
 Do not wash your dirty linen in public
 Do not sympathize with those who can not empathize
-Do unto others as you would have them do unto you. Often referred to as the Golden Rule
 Doubt is the beginning, not the end, of wisdom
-Early to bed and early to rise makes a man healthy, wealthy and wise. Benjamin Franklin (1706–1790), polymath and Founding Father of the United States
+Early to bed and early to rise makes a man healthy, wealthy and wise. 
 Easier said than done
 East is east, and west is west (and never the twain shall meet)
 East, west, home is best,
@@ -149,7 +147,7 @@ Every cloud has a silver lining
 Every dog has his day
 Every Jack has his Jill
 Every little bit helps
-Every man for himself (, and the Devil take the hindmost)
+Every man for himself 
 Every man has his price
 Every picture tells a story
 Every stick has two ends
@@ -177,7 +175,9 @@ Fish always stinks from the head downwards
 Fish and guests smell after three days
 Flattery will get you nowhere
 Fools rush in (where angels fear to tread)
-For want of a nail the shoe was lost; for want of a shoe the horse was lost; and for want of a horse the man was lost
+For want of a nail the shoe was lost; 
+for want of a shoe the horse was lost; 
+and for want of a horse the man was lost
 Forewarned is forearmed
 Fortune favours the bold/brave
 Free is for me
@@ -185,7 +185,8 @@ Fretting cares make grey hair
 From the sublime to the ridiculous (is only a step)
 Genius is an infinite capacity for taking pains
 Give a dog a bad name and hang him
-Give a man a fish and you feed him for a day. Teach a man to fish and you feed him for a lifetime
+Give a man a fish and you feed him for a day. 
+Teach a man to fish and you feed him for a lifetime
 Give a man rope enough and he will hang himself
 Give credit where credit is due
 Give him an inch and he will take a mile
@@ -205,10 +206,10 @@ He who can, does; he who cannot, teaches
 He who hesitates is lost
 He who laughs last laughs longest
 He who lives by the sword, die by the sword
-He who loves the world as his body may be entrusted with the empire. Lao Tzu, Chinese philosopher (604 BC – c. 531 BC)
+He who loves the world as his body may be entrusted with the empire. 
 He who makes a beast out of himself gets rid of the pain of being a man
 He who pays the piper calls the tune
-He who knows does not speak. He who speaks does not know. Lao Tzu, Chinese philosopher (604 BC – c. 531 BC)
+He who knows does not speak. He who speaks does not know. 
 He who sups with the Devil should have a long spoon
 Hell hath no fury like a woman scorned
 Heav'n has no Rage, like Love to Hatred turn'd, 
@@ -233,7 +234,9 @@ If it were not for hope the heart would break.
 If it were a snake, it would have bit you.
 If the shoe fits, wear it
 If the mountain will not come to Mohammed, then Mohammed must go to the mountain
-If wealth is lost, nothing is lost. If health is lost, something is lost. If character is lost, everything is lost.
+If wealth is lost, nothing is lost. 
+If health is lost, something is lost. 
+If character is lost, everything is lost.
 If wishes were horses, beggars would ride
 If you're growing in Age, then you're nearing to the Graveyard
 If you cannot be good, be careful
@@ -245,10 +248,11 @@ If you think that you know everything, then you're a Jack ass
 If you lie down with dogs, you will get up with fleas
 If you pay peanuts, you get monkeys
 If you play with fire, you will get burned.
-If you steal from one author, it is plagiarism; if you steal from many, it is research. Wilson Mizner (1876–1933), American writer and entrepreneur
+If you steal from one author, it is plagiarism; 
+if you steal from many, it is research. 
 If you want a thing done well, do it yourself
 If you have never seen the bottom of the tree, you cannot know how tall it stands
-If you must dance with the Devil, you might as well know his favorite song. (H. Anthony Ribadeneira)
+If you must dance with the Devil, you might as well know his favorite song. 
 If you've got it, flaunt it
 Ignorance is bliss
 Imitation is the sincerest form of flattery
@@ -297,7 +301,9 @@ Keep your friends close and your enemies closer.
 Keep your powder dry. Valentine Blacker, 1834 from Oliver's Advice
 Kill the chicken to scare the monkey.
 Kill the goose that lays the golden egg(s).
-Kindness in words creates confidence. Kindness in thinking creates profoundness. Kindness in giving creates love. Lao Tzu, Chinese philosopher (604 BC – c. 531 BC)
+Kindness in words creates confidence.
+Kindness in thinking creates profoundness. 
+Kindness in giving creates love. 
 Knock on/touch wood
 Know which side (one's) bread is buttered (on)
 Knowledge is power, guard it well.
@@ -328,10 +334,10 @@ Little strokes fell great oaks
 Little things please little minds
 Live and let live
 Live for today, for tomorrow never comes
-Live to fight another day. This saying comes from an English proverbial rhyme, "He who fights and runs away, may live to fight another day".
+Live to fight another day. 
 Loose lips sink ships
 Look before you leap
-Love is blind. The Two Gentlemen of Verona, Act II, Scene 1 (1591)
+Love is blind. 
 Love of money is the root of all kinds of evil.
 Love makes the world go around
 Love will find a way
@@ -355,7 +361,6 @@ Mighty oaks from little acorns grow
 Milking the bull
 Misery loves company
 Moderation in all things
-Monday's child is fair of face, Tuesday's child is full of grace, Wednesday's child is full of woe, Thursday's child has far to go, Friday's child is loving and giving, Saturday's child works hard for its living, and a child that is born on the Sabbath day is fair and wise and good and gay.
 Money does not grow on trees
 Money earned by deceit, goes by deceit
 Money is not everything
@@ -396,9 +401,8 @@ Nothing ventured, nothing gained
 Once a(n) _, always a(n) _
 One might as well throw water into the sea as to do a kindness to rogues
 One kind word can warm three winter months
-One who speaks only one language is one person, but one who speaks two languages is two people. Turkish Proverb
+One who speaks only one language is one person, but one who speaks two languages is two people. 
 Oil and water do not mix
-Old soldiers never die, (they simply/just fade away). From a soldiers' folklore song, the phrase was most notably used by U.S. General Douglas MacArthur (1880–1964) in his farewell address to the Congress.
 Once bitten, twice shy
 One good turn deserves another
 One half of the world does not know how the other half lives
@@ -553,7 +557,7 @@ Time is a great healer
 Time is money
 (Only) time will tell
 'Tis better to have loved and lost than never to have loved at all
-To be worn out is to be renewed. Lao Tzu, Chinese philosopher (604 BC – c. 531 BC)
+To be worn out is to be renewed. 
 To each his own.
 To err is human, to forgive divine
 To learn a language is to have one more window from which to look at the world. Chinese proverb
@@ -563,16 +567,16 @@ Tomorrow is another day
 Tomorrow never comes
 Too many cooks spoil the broth
 Truth is stranger than fiction
-Truth is more valuable if it takes you a few years to find it. Often attributed to French author Jules Renard (1864–1910)
+Truth is more valuable if it takes you a few years to find it. 
 (The) truth will out
 Turn your face toward the sun and the shadows fall behind you.
 Two can play at that game
 Two heads are better than one
 Two is company, but three is a crowd,
 Two wrongs (do not) make a right
-Variety is the spice of life. William Cowper, English poet (1731–1800)
+Variety is the spice of life. 
 Virtue is its own reward
-Walk softly but carry a big stick. 26th U.S. President Theodore Roosevelt, 1900 in letter relating an old African proverb
+Walk softly but carry a big stick. 
 Walls have ears
 Walnuts and pears you plant for your heirs
 Waste not, want not
