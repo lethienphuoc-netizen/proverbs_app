@@ -6,28 +6,28 @@ hard work pays off|Lao động chăm chỉ sẽ được đền đáp.
 rome wasn’t built in a day|Rồng bay chưa lên trời trong một ngày.
 slow and steady wins the race|Chậm mà chắc.
 a little effort goes a long way|Có công mài sắt, có ngày nên kim.
-Don’t put off until tomorrow what you can do today|Việc hôm nay chớ để ngày mai.
-Well begun is half done|Khởi đầu tốt là thành công một nửa.
-Better safe than sorry|Cẩn tắc vô ưu.
-Look before you leap|Nhảy mà không nhìn trước sau.
-Think before you act|Cẩn thận trước khi làm.
-When in Rome, do as the Romans do|Nhập gia tùy tục.
-Don’t judge a book by its cover|Đừng nhìn mặt mà bắt hình dong.
-Measure twice, cut once|Đo hai lần, cắt một lần.
-Easy come, easy go|Có dễ dàng thì cũng mất dễ dàng.
-Curiosity killed the cat|Tò mò sẽ gặp rắc rối.
-A bird in the hand is worth two in the bush|Một con én trong tay hơn trăm con chim trên cành.
-Don’t bite off more than you can chew|Đừng ôm đồm quá sức.
-Honesty is the best policy|Thật thà là cha quỷ quái.
-Actions speak louder than words|Nói được, làm được.
-What goes around comes around.|Gieo gió, gặt bão.
-Do unto others as you would have them do unto you.|Làm ơn sẽ gặp ơn.
-The truth will come out.|Sự thật sẽ được phơi bày.
-A friend in need is a friend indeed.|Bạn bè khó khăn mới biết ai là bạn thật.
-Don’t make promises you can’t keep.|Đừng hứa những gì mình không làm được.
-Practice what you preach.|Làm theo những gì mình rao giảng.
-What is right is not always popular.|Điều đúng không phải lúc nào cũng được ưa thích.
-Better to give than to receive.|Cho đi còn quý hơn nhận lại.
+don’t put off until tomorrow what you can do today|Việc hôm nay chớ để ngày mai.
+well begun is half done|Khởi đầu tốt là thành công một nửa.
+better safe than sorry|Cẩn tắc vô ưu.
+look before you leap|Nhảy mà không nhìn trước sau.
+think before you act|Cẩn thận trước khi làm.
+when in Rome, do as the Romans do|Nhập gia tùy tục.
+don’t judge a book by its cover|Đừng nhìn mặt mà bắt hình dong.
+measure twice, cut once|Đo hai lần, cắt một lần.
+easy come, easy go|Có dễ dàng thì cũng mất dễ dàng.
+curiosity killed the cat|Tò mò sẽ gặp rắc rối.
+a bird in the hand is worth two in the bush|Một con én trong tay hơn trăm con chim trên cành.
+don’t bite off more than you can chew|Đừng ôm đồm quá sức.
+honesty is the best policy|Thật thà là cha quỷ quái.
+actions speak louder than words|Nói được, làm được.
+what goes around comes around|Gieo gió, gặt bão.
+do unto others as you would have them do unto you.|Làm ơn sẽ gặp ơn.
+the truth will come out|Sự thật sẽ được phơi bày.
+a friend in need is a friend indeed|Bạn bè khó khăn mới biết ai là bạn thật.
+don’t make promises you can’t keep|Đừng hứa những gì mình không làm được.
+practice what you preach|Làm theo những gì mình rao giảng.
+what is right is not always popular|Điều đúng không phải lúc nào cũng được ưa thích.
+better to give than to receive|Cho đi còn quý hơn nhận lại.
 Health is wealth.|Có thực mới vực được đạo.
 Time is money.|Thời gian là vàng bạc.
 Don’t put all your eggs in one basket.|Đừng bỏ trứng vào một giỏ.
@@ -98,5 +98,6 @@ You can’t judge a tree by its bark.|Đừng đánh giá bề ngoài.
 You can’t make an omelet without breaking eggs.|Không có hy sinh thì không có thành công.
 You reap what you sow.|Gieo nhân nào gặt quả nấy.
 You’re never too old to learn.|Học không bao giờ là muộn.
+
 
 
