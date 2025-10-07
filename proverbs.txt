@@ -1,11 +1,11 @@
-Practice makes perfect|Có công mài sắt, có ngày nên kim.
-No pain, no gain|Có công mài sắt, có ngày nên kim.
-You reap what you sow|Gieo gió, gặt bão.
-Many hands make light work|Một cây làm chẳng nên non, ba cây chụm lại nên hòn núi cao.
-Hard work pays off|Lao động chăm chỉ sẽ được đền đáp.
-Rome wasn’t built in a day|Rồng bay chưa lên trời trong một ngày.
-Slow and steady wins the race|Chậm mà chắc.
-A little effort goes a long way|Có công mài sắt, có ngày nên kim.
+practice makes perfect|Có công mài sắt, có ngày nên kim.
+no pain, no gain|Có công mài sắt, có ngày nên kim.
+you reap what you sow|Gieo gió, gặt bão.
+many hands make light work|Một cây làm chẳng nên non, ba cây chụm lại nên hòn núi cao.
+hard work pays off|Lao động chăm chỉ sẽ được đền đáp.
+rome wasn’t built in a day|Rồng bay chưa lên trời trong một ngày.
+slow and steady wins the race|Chậm mà chắc.
+a little effort goes a long way|Có công mài sắt, có ngày nên kim.
 Don’t put off until tomorrow what you can do today|Việc hôm nay chớ để ngày mai.
 Well begun is half done|Khởi đầu tốt là thành công một nửa.
 Better safe than sorry|Cẩn tắc vô ưu.
@@ -98,4 +98,5 @@ You can’t judge a tree by its bark.|Đừng đánh giá bề ngoài.
 You can’t make an omelet without breaking eggs.|Không có hy sinh thì không có thành công.
 You reap what you sow.|Gieo nhân nào gặt quả nấy.
 You’re never too old to learn.|Học không bao giờ là muộn.
+
 
