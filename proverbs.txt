@@ -1,25 +1,25 @@
-Practice makes perfect.|Có công mài sắt, có ngày nên kim.
-No pain, no gain.|Có công mài sắt, có ngày nên kim.
-You reap what you sow.|Gieo gió, gặt bão.
-Many hands make light work.|Một cây làm chẳng nên non, ba cây chụm lại nên hòn núi cao.
-Hard work pays off.|Lao động chăm chỉ sẽ được đền đáp.
-Rome wasn’t built in a day.|Rồng bay chưa lên trời trong một ngày.
-Slow and steady wins the race.|Chậm mà chắc.
-A little effort goes a long way.|Có công mài sắt, có ngày nên kim.
-Don’t put off until tomorrow what you can do today.|Việc hôm nay chớ để ngày mai.
-Well begun is half done.|Khởi đầu tốt là thành công một nửa.
-Better safe than sorry.|Cẩn tắc vô ưu.
-Look before you leap.|Nhảy mà không nhìn trước sau.
-Think before you act.|Cẩn thận trước khi làm.
-When in Rome, do as the Romans do.|Nhập gia tùy tục.
-Don’t judge a book by its cover.|Đừng nhìn mặt mà bắt hình dong.
-Measure twice, cut once.|Đo hai lần, cắt một lần.
-Easy come, easy go.|Có dễ dàng thì cũng mất dễ dàng.
-Curiosity killed the cat.|Tò mò sẽ gặp rắc rối.
-A bird in the hand is worth two in the bush.|Một con én trong tay hơn trăm con chim trên cành.
-Don’t bite off more than you can chew.|Đừng ôm đồm quá sức.
-Honesty is the best policy.|Thật thà là cha quỷ quái.
-Actions speak louder than words.|Nói được, làm được.
+Practice makes perfect|Có công mài sắt, có ngày nên kim.
+No pain, no gain|Có công mài sắt, có ngày nên kim.
+You reap what you sow|Gieo gió, gặt bão.
+Many hands make light work|Một cây làm chẳng nên non, ba cây chụm lại nên hòn núi cao.
+Hard work pays off|Lao động chăm chỉ sẽ được đền đáp.
+Rome wasn’t built in a day|Rồng bay chưa lên trời trong một ngày.
+Slow and steady wins the race|Chậm mà chắc.
+A little effort goes a long way|Có công mài sắt, có ngày nên kim.
+Don’t put off until tomorrow what you can do today|Việc hôm nay chớ để ngày mai.
+Well begun is half done|Khởi đầu tốt là thành công một nửa.
+Better safe than sorry|Cẩn tắc vô ưu.
+Look before you leap|Nhảy mà không nhìn trước sau.
+Think before you act|Cẩn thận trước khi làm.
+When in Rome, do as the Romans do|Nhập gia tùy tục.
+Don’t judge a book by its cover|Đừng nhìn mặt mà bắt hình dong.
+Measure twice, cut once|Đo hai lần, cắt một lần.
+Easy come, easy go|Có dễ dàng thì cũng mất dễ dàng.
+Curiosity killed the cat|Tò mò sẽ gặp rắc rối.
+A bird in the hand is worth two in the bush|Một con én trong tay hơn trăm con chim trên cành.
+Don’t bite off more than you can chew|Đừng ôm đồm quá sức.
+Honesty is the best policy|Thật thà là cha quỷ quái.
+Actions speak louder than words|Nói được, làm được.
 What goes around comes around.|Gieo gió, gặt bão.
 Do unto others as you would have them do unto you.|Làm ơn sẽ gặp ơn.
 The truth will come out.|Sự thật sẽ được phơi bày.
@@ -98,3 +98,4 @@ You can’t judge a tree by its bark.|Đừng đánh giá bề ngoài.
 You can’t make an omelet without breaking eggs.|Không có hy sinh thì không có thành công.
 You reap what you sow.|Gieo nhân nào gặt quả nấy.
 You’re never too old to learn.|Học không bao giờ là muộn.
+
