@@ -88,16 +88,17 @@ The squeaky wheel gets the grease.|Kẻ kêu ca thường được chú ý.
 There’s no place like home.|Không đâu bằng nhà.
 There’s no smoke without fire.|Không có lửa làm sao có khói.
 To err is human, to forgive divine.|Phạm lỗi là con người, tha thứ là đức hạnh.
-Too many cooks spoil the broth.|Lắm thầy thối ma.
-Two wrongs don’t make a right.|Sai không thể sửa sai bằng sai.
-Variety is the spice of life.|Đa dạng làm cuộc sống thú vị.
-When the cat’s away, the mice will play.|Vắng chủ nhà gà mọc đuôi tôm.
-Where there’s smoke, there’s fire.|Không có lửa làm sao có khói.
-You can’t have your cake and eat it too.|Không thể có cả hai điều trái ngược.
-You can’t judge a tree by its bark.|Đừng đánh giá bề ngoài.
-You can’t make an omelet without breaking eggs.|Không có hy sinh thì không có thành công.
-You reap what you sow.|Gieo nhân nào gặt quả nấy.
-You’re never too old to learn.|Học không bao giờ là muộn.
+too many cooks spoil the broth|Lắm thầy thối ma.
+two wrongs don’t make a right|Sai không thể sửa sai bằng sai.
+variety is the spice of life|Đa dạng làm cuộc sống thú vị.
+when the cat’s away, the mice will play|Vắng chủ nhà gà mọc đuôi tôm.
+where there’s smoke, there’s fire|Không có lửa làm sao có khói.
+you can’t have your cake and eat it too|Không thể có cả hai điều trái ngược.
+you can’t judge a tree by its bark|Đừng đánh giá bề ngoài.
+you can’t make an omelet without breaking eggs|Không có hy sinh thì không có thành công.
+you reap what you sow|Gieo nhân nào gặt quả nấy.
+you’re never too old to learn|Học không bao giờ là muộn.
+
 
 
 
