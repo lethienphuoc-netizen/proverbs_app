@@ -28,26 +28,26 @@ don’t make promises you can’t keep|Đừng hứa những gì mình không l�
 practice what you preach|Làm theo những gì mình rao giảng.
 what is right is not always popular|Điều đúng không phải lúc nào cũng được ưa thích.
 better to give than to receive|Cho đi còn quý hơn nhận lại.
-Health is wealth.|Có thực mới vực được đạo.
-Time is money.|Thời gian là vàng bạc.
-Don’t put all your eggs in one basket.|Đừng bỏ trứng vào một giỏ.
-The early bird catches the worm.|Dậy sớm bắt được cơ hội.
-Every cloud has a silver lining.|Trong cái rủi có cái may.
-Where there’s a will, there’s a way.|Có chí thì nên.
-Life is short, make it sweet.|Cuộc sống ngắn, hãy sống vui.
-Count your blessings.|Hãy biết ơn những gì bạn có.
-All that glitters is not gold.|Không phải vàng mà cũng sáng.
-Fortune favors the brave.|Người dũng cảm sẽ gặp may.
-Birds of a feather flock together.|Ngưu tầm ngưu, mã tầm mã.
-A problem shared is a problem halved.|Chia sẻ nỗi buồn, bớt đi một nửa.
-Two heads are better than one.|Hai đầu óc tốt hơn một.
-Good friends are like stars.|Bạn tốt như những vì sao.
-Don’t judge a man until you’ve walked a mile in his shoes.|Đừng đánh giá người khác khi chưa trải qua họ.
-Actions speak louder than words.|Hành động quan trọng hơn lời nói.
-It takes two to tango.|Một mình không làm được chuyện lớn.
-The grass is always greener on the other side.|Bên kia đồng xanh hơn.
-Don’t burn your bridges.|Đừng cắt cầu với người khác.
-Laughter is the best medicine.|Tiếng cười là liều thuốc tốt nhất.
+health is wealth|Có thực mới vực được đạo.
+time is money|Thời gian là vàng bạc.
+don’t put all your eggs in one basket|Đừng bỏ trứng vào một giỏ.
+the early bird catches the worm|Dậy sớm bắt được cơ hội.
+every cloud has a silver lining|Trong cái rủi có cái may.
+where there’s a will, there’s a way|Có chí thì nên.
+life is short, make it sweet|Cuộc sống ngắn, hãy sống vui.
+count your blessings|Hãy biết ơn những gì bạn có.
+all that glitters is not gold|Không phải vàng mà cũng sáng.
+fortune favors the brave|Người dũng cảm sẽ gặp may.
+birds of a feather flock together|Ngưu tầm ngưu, mã tầm mã.
+a problem shared is a problem halved|Chia sẻ nỗi buồn, bớt đi một nửa.
+two heads are better than one|Hai đầu óc tốt hơn một.
+good friends are like stars|Bạn tốt như những vì sao.
+don’t judge a man until you’ve walked a mile in his shoes|Đừng đánh giá người khác khi chưa trải qua họ.
+actions speak louder than words|Hành động quan trọng hơn lời nói.
+it takes two to tango|Một mình không làm được chuyện lớn.
+the grass is always greener on the other side|Bên kia đồng xanh hơn.
+don’t burn your bridges|Đừng cắt cầu với người khác.
+laughter is the best medicine|Tiếng cười là liều thuốc tốt nhất.
 A journey of a thousand miles begins with a single step.|Hành trình ngàn dặm bắt đầu từ một bước chân.
 Actions speak louder than words.|Hành động quan trọng hơn lời nói.
 A leopard cannot change its spots.|Bản tính khó đổi.
@@ -98,6 +98,7 @@ you can’t judge a tree by its bark|Đừng đánh giá bề ngoài.
 you can’t make an omelet without breaking eggs|Không có hy sinh thì không có thành công.
 you reap what you sow|Gieo nhân nào gặt quả nấy.
 you’re never too old to learn|Học không bao giờ là muộn.
+
 
 
 
