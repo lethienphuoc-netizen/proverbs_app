@@ -68,26 +68,26 @@ Good things come to those who wait.|Điều tốt đẹp đến với ai biết 
 Ignorance is bliss.|Không biết thì lại yên ổn.
 If it ain’t broke, don’t fix it.|Cái gì chưa hỏng thì đừng sửa.
 If you can’t beat them, join them.|Không thắng được thì nhập bọn với họ.
-It takes two to tango.|Chuyện gì cũng cần hai phía.
-Knowledge is power.|Kiến thức là sức mạnh.
-Let bygones be bygones.|Chuyện gì qua hãy để qua.
-Lightning never strikes twice in the same place.|Sét không đánh hai lần một chỗ.
-Make hay while the sun shines.|Tranh thủ khi còn cơ hội.
-Money doesn’t grow on trees.|Tiền không mọc trên cây.
-Necessity is the mother of invention.|Cái khó ló cái khôn.
-No man is an island.|Không ai sống tách biệt hoàn toàn được.
-Old habits die hard.|Thói quen cũ khó bỏ.
-One good turn deserves another.|Có ơn nên trả ơn.
-Opportunity knocks but once.|Cơ hội chỉ đến một lần.
-Out of sight, out of mind.|Xa mặt cách lòng.
-Practice makes perfect.|Có công mài sắt, có ngày nên kim.
-Rome wasn’t built in a day.|Thành công không thể đạt được trong ngày một ngày hai.
-Silence is golden.|Im lặng là vàng.
-The pen is mightier than the sword.|Ngòi bút mạnh hơn gươm giáo.
-The squeaky wheel gets the grease.|Kẻ kêu ca thường được chú ý.
-There’s no place like home.|Không đâu bằng nhà.
-There’s no smoke without fire.|Không có lửa làm sao có khói.
-To err is human, to forgive divine.|Phạm lỗi là con người, tha thứ là đức hạnh.
+it takes two to tango|Chuyện gì cũng cần hai phía.
+knowledge is power|Kiến thức là sức mạnh.
+let bygones be bygones|Chuyện gì qua hãy để qua.
+lightning never strikes twice in the same place|Sét không đánh hai lần một chỗ.
+make hay while the sun shines|Tranh thủ khi còn cơ hội.
+money doesn’t grow on trees|Tiền không mọc trên cây.
+necessity is the mother of invention|Cái khó ló cái khôn.
+no man is an island|Không ai sống tách biệt hoàn toàn được.
+old habits die hard|Thói quen cũ khó bỏ.
+one good turn deserves another|Có ơn nên trả ơn.
+opportunity knocks but once|Cơ hội chỉ đến một lần.
+out of sight, out of mind|Xa mặt cách lòng.
+practice makes perfect|Có công mài sắt, có ngày nên kim.
+rome wasn’t built in a day|Thành công không thể đạt được trong ngày một ngày hai.
+silence is golden|Im lặng là vàng.
+the pen is mightier than the sword|Ngòi bút mạnh hơn gươm giáo.
+the squeaky wheel gets the grease|Kẻ kêu ca thường được chú ý.
+there’s no place like home|Không đâu bằng nhà.
+there’s no smoke without fire|Không có lửa làm sao có khói.
+to err is human, to forgive divine|Phạm lỗi là con người, tha thứ là đức hạnh.
 too many cooks spoil the broth|Lắm thầy thối ma.
 two wrongs don’t make a right|Sai không thể sửa sai bằng sai.
 variety is the spice of life|Đa dạng làm cuộc sống thú vị.
@@ -98,6 +98,7 @@ you can’t judge a tree by its bark|Đừng đánh giá bề ngoài.
 you can’t make an omelet without breaking eggs|Không có hy sinh thì không có thành công.
 you reap what you sow|Gieo nhân nào gặt quả nấy.
 you’re never too old to learn|Học không bao giờ là muộn.
+
 
 
 
