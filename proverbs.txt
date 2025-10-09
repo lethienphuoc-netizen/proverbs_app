@@ -48,26 +48,26 @@ it takes two to tango|Một mình không làm được chuyện lớn.
 the grass is always greener on the other side|Bên kia đồng xanh hơn.
 don’t burn your bridges|Đừng cắt cầu với người khác.
 laughter is the best medicine|Tiếng cười là liều thuốc tốt nhất.
-A journey of a thousand miles begins with a single step.|Hành trình ngàn dặm bắt đầu từ một bước chân.
-Actions speak louder than words.|Hành động quan trọng hơn lời nói.
-A leopard cannot change its spots.|Bản tính khó đổi.
-A watched pot never boils.|Càng trông chừng thì càng lâu.
-Beauty is in the eye of the beholder.|Vẻ đẹp nằm trong con mắt người nhìn.
-Beggars can’t be choosers.|Ăn xin thì không được chọn lựa.
-Better late than never.|Muộn còn hơn không.
-Don’t count your chickens before they hatch.|Đừng đếm gà trước khi nở.
-Don’t bite the hand that feeds you.|Đừng phản bội người đã giúp mình.
-Don’t cry over spilled milk.|Đừng than khóc chuyện đã qua.
-Don’t put the cart before the horse.|Đừng làm việc ngược đời.
-Every dog has its day.|Ai rồi cũng có lúc thành công.
-Every rose has its thorn.|Hoa hồng nào cũng có gai.
-Fail to plan, plan to fail.|Không lên kế hoạch là lên kế hoạch thất bại.
-Fortune favors the bold.|Vận may đến với người dũng cảm.
-God helps those who help themselves.|Trời giúp người tự giúp mình.
-Good things come to those who wait.|Điều tốt đẹp đến với ai biết chờ đợi.
-Ignorance is bliss.|Không biết thì lại yên ổn.
-If it ain’t broke, don’t fix it.|Cái gì chưa hỏng thì đừng sửa.
-If you can’t beat them, join them.|Không thắng được thì nhập bọn với họ.
+a journey of a thousand miles begins with a single step|Hành trình ngàn dặm bắt đầu từ một bước chân.
+actions speak louder than words|Hành động quan trọng hơn lời nói.
+a leopard cannot change its spots|Bản tính khó đổi.
+a watched pot never boils|Càng trông chừng thì càng lâu.
+beauty is in the eye of the beholder|Vẻ đẹp nằm trong con mắt người nhìn.
+beggars can’t be choosers|Ăn xin thì không được chọn lựa.
+better late than never|Muộn còn hơn không.
+don’t count your chickens before they hatch|Đừng đếm gà trước khi nở.
+don’t bite the hand that feeds you|Đừng phản bội người đã giúp mình.
+don’t cry over spilled milk|Đừng than khóc chuyện đã qua.
+don’t put the cart before the horse|Đừng làm việc ngược đời.
+every dog has its day|Ai rồi cũng có lúc thành công.
+every rose has its thorn|Hoa hồng nào cũng có gai.
+fail to plan, plan to fail|Không lên kế hoạch là lên kế hoạch thất bại.
+fortune favors the bold|Vận may đến với người dũng cảm.
+god helps those who help themselves|Trời giúp người tự giúp mình.
+good things come to those who wait|Điều tốt đẹp đến với ai biết chờ đợi.
+ignorance is bliss|Không biết thì lại yên ổn.
+if it ain’t broke, don’t fix it|Cái gì chưa hỏng thì đừng sửa.
+if you can’t beat them, join them|Không thắng được thì nhập bọn với họ.
 it takes two to tango|Chuyện gì cũng cần hai phía.
 knowledge is power|Kiến thức là sức mạnh.
 let bygones be bygones|Chuyện gì qua hãy để qua.
@@ -98,6 +98,7 @@ you can’t judge a tree by its bark|Đừng đánh giá bề ngoài.
 you can’t make an omelet without breaking eggs|Không có hy sinh thì không có thành công.
 you reap what you sow|Gieo nhân nào gặt quả nấy.
 you’re never too old to learn|Học không bao giờ là muộn.
+
 
 
 
